@@ -1,0 +1,11 @@
+Make it feel like hom
+Whatever decoration you choose, let your personality lead the way. Because that's how the place you live in becomes the place you call home.
+Get your home in a summer mood
+Give your plants a natural home
+IDEAS
+We don't believe in perfect homes. We believe in homes that are a perfect reflection of the people who live inside. Where everything looks the way you want it to, works the way you need it to, and just generally makes you feel good ¨C without costing a fortune. That's why we've filled this section with tons of different home ideas, from home decoration ideas to organising tips to inspiration for making your home more green. So that you'll have all you need for creating a space that you love calling home.
+#260C0C
+<link href="https://fonts.googleapis.com/css?family=DM+Serif+Display|Noto+Sans+TC|Permanent+Marker&display=swap" rel="stylesheet">
+font-family: 'DM Serif Display', serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Noto Sans TC', sans-serif;
